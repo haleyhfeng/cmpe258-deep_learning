@@ -1,8 +1,5 @@
-# CMPE 258 Deep Learning
-Assignments Repository 
+# CMPE 258 Deep Learning Assignments 
 
-San Jose State University
-
-Professor Vijay Eranti
+San Jose State University, Professor Vijay Eranti
 
 
