@@ -17,3 +17,5 @@ Tensorflow Tutorial using MNIST dataset
 * Step-by-step build of Neural Network
 * Convolution Neural Network
 * Overfitting/Regularizer Technique: Dropout, Batch normalization
+
+Colab Tutorial: https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0
