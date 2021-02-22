@@ -1,6 +1,7 @@
 # HW1
 
 Part 1: Black-box Deep Learning
+
 Using FastAI to build model for:
 * Image Classification: cnn_learner
 * Segmentation: unet_learner
@@ -11,4 +12,8 @@ Using FastAI to build model for:
 Reference Colab Notebook: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 
 Part 2: White-box Deep Learning
+
 Tensorflow Tutorial using MNIST dataset
+* Step-by-step build of Neural Network
+* Convolution Neural Network
+* Overfitting/Regularizer Technique: Dropout, Batch normalization
