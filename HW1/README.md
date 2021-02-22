@@ -7,6 +7,7 @@ Using FastAI to build model for:
 * Sentiment Analysis: text_classifier_learner
 * Decision Tree: tabular_learner
 * Ranking: collab_learner
+
 Reference Colab Notebook: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 
 Part 2: White-box Deep Learning
