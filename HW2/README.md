@@ -2,8 +2,8 @@
 
 Following the tutorials provided Google Cloud AI Platform (https://cloud.google.com/ai-platform-unified/docs/tutorials?authuser=2), learned to use each platform below:
 
-**Part 1: Hello AI Platform (Unified) 
-**- **Hello image data**, use an image dataset to train an AutoML model
+**Part 1: Hello AI Platform (Unified) **
+- **Hello image data**, use an image dataset to train an AutoML model
   * Creative input: Test on a subset of Diabetic Retinopathy dataset (453 images)
 - **Hello text data**, use a text dataset to train an AutoML model
   * Creative input: Test on Fake and Real News dataset (38,639 texts)
