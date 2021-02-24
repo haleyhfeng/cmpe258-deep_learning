@@ -12,10 +12,12 @@ Part 1: Hello AI Platform (Unified)
 - **Hello structured data**, use a structured dataset to train an AutoML model
   * Creative input: Test on Taiwan Bankruptcy dataset (6819 instances)
 
-Video Demo includes walk-through of documentation and interactions with GCP Consoles
+Video Demo 1 includes walk-through of documentation and interactions with GCP Consoles
 https://drive.google.com/file/d/1q7VMvvr_I_oDJ9GnzOmhNlZ3ODDvhVWN/view?usp=sharing
 
 Part 2: AutoML Vision and Time Series Forecast
 - Deployment of a vision model using automl to mobile device
 - Time Series Forecasting with the Cloud AI Platform and BQML
 
+Video Demo 2 includes walk-through of documentation and interactions with GCP Consoles
+https://drive.google.com/file/d/1aCFWA53MgqbmDuaGHqXOeED9Nf-Feji6/view?usp=sharing
