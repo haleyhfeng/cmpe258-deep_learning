@@ -2,7 +2,7 @@
 
 Following the tutorials provided Google Cloud AI Platform (https://cloud.google.com/ai-platform-unified/docs/tutorials?authuser=2), learned to use each platform below:
 
-**Part 1: Hello AI Platform (Unified) **
+**Part 1: Hello AI Platform (Unified)**
 - **Hello image data**, use an image dataset to train an AutoML model
   * Creative input: Test on a subset of Diabetic Retinopathy dataset (453 images)
 - **Hello text data**, use a text dataset to train an AutoML model
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1q7VMvvr_I_oDJ9GnzOmhNlZ3ODDvhVWN/view?usp=shari
 
 **Part 2: AutoML Vision and Time Series Forecast**
 - Deployment of a vision model using automl to mobile device
-- Time Series Forecasting with the Cloud AI Platform and BQML
+- Time Series Forecasting with the Cloud AI Platform and BigQueryML
 
 Video Demo 2 includes walk-through of documentation and interactions with GCP Consoles
 https://drive.google.com/file/d/1aCFWA53MgqbmDuaGHqXOeED9Nf-Feji6/view?usp=sharing
