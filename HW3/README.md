@@ -5,7 +5,7 @@ Build with:
 * Pure Numpy (1a)
 * Pure Pytorch (2a)
    - with Auto Differentiation (2b)
-   - with Torch.nn.Module
+   - with Torch.nn.Module (2c)
 * Pure Tensorflow (3a)
    - with GradientTape (3b)
    - with Model Subclassing API (3c)
