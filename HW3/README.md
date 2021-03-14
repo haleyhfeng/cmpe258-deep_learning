@@ -1,6 +1,7 @@
 # HW 3
 
 Objective: Build a 3 layer Neural Network (with relu nonlinearity) to train on data with 3 dimensions input and 2 dimensions output.
+
 Build with:
 * Pure Numpy (1a)
 * Pure Pytorch (2a)
