@@ -1,13 +1,13 @@
 # HW 3
 
-Objective: Build a 3 layer Neural Network (with relu nonlinearity) to train on data with 3 dimensions input and 2 dimensions output.
+**Objective**: Build a 3 layer Neural Network (with relu nonlinearity) to train on data with 3 dimensions input and 2 dimensions output.
 
-Build with:
-* Pure Numpy (1a) 
-* Pure Pytorch (2a) 
+**Build with**:
+* _**Pure Numpy**_ (1a) 
+* _**Pure Pytorch**_ (2a) 
    - with Auto Differentiation (2b) 
    - with Torch.nn.Module (2c)
-* Pure Tensorflow (3a) 
+* _**Pure Tensorflow**_ (3a) 
    - with GradientTape (3b)
    - with Model Subclassing API (3c)
 
