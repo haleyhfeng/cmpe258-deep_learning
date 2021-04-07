@@ -7,15 +7,15 @@
 * _**Pure Keras, Tensorflow**_ (2) 
 
 **Techniques Applied**:
-* _**Mini-Batch Gradient Descent**_ 
-* _**Dropout Regularization Layer**_ 
-* _**Appropriate Weight Initialization**_ 
-* _**Image Augmentation**_
-* _**Tuning of Number of Neurons and Layers**_  
-* _**ReLU Activation Layer**_ 
-* _**Normalization/Standarization**_ 
-* _**Appropriate/Adaptive Learning Rate**_ 
-* _**Visualization, Confusion Matrix**_ 
+* **Mini-Batch Gradient Descent** 
+* **Dropout Regularization Layer**
+* **Appropriate Weight Initialization** 
+* **Image Augmentation**
+* **Tuning of Number of Neurons and Layers**
+* **ReLU Activation Layer**
+* **Normalization/Standarization** 
+* **Appropriate/Adaptive Learning Rate** 
+* **Visualization, Confusion Matrix** 
 
 
 Reference/Modified code from the following notebooks: 
