@@ -1,6 +1,6 @@
 # HW 4
 
-**Objective**: Build a 3 layer Feed Forward Neural Network (with relu nonlinearity) to train on MNIST dataset.
+**Objective**: Build a 3 layer Feed Forward Neural Network to train on MNIST dataset.
 
 **Build with**:
 * _**Pure Numpy**_ (1) 
