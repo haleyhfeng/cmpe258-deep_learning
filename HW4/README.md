@@ -6,7 +6,7 @@
 * _**Pure Numpy**_ (1) 
 * _**Pure Keras, Tensorflow**_ (2) 
 
-**Techniques Applied**:
+**Techniques applied**:
 * **Mini-Batch Gradient Descent** 
 * **Dropout Regularization Layer**
 * **Appropriate Weight Initialization** 
