@@ -1,6 +1,6 @@
 # HW 4
 
-**Objective**: Build a 3 layer Feed Forward Neural Network to train on MNIST dataset.
+**Objective**: Build a Feed Forward Neural Network to train on MNIST dataset.
 
 **Build with**:
 * _**Pure Numpy**_ (1) 
@@ -16,6 +16,9 @@
 * **Normalization** 
 * **Appropriate/Adaptive Learning Rate** 
 * **Visualization, Confusion Matrix** 
+
+**Highest Accuracy Achieved**:
+
 
 
 Reference/Modified code from the following notebooks: 
