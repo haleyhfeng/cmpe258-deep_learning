@@ -13,7 +13,7 @@
 * **Image Augmentation**
 * **Tuning of Number of Neurons and Layers**
 * **ReLU Activation Layer**
-* **Normalization/Standarization** 
+* **Normalization** 
 * **Appropriate/Adaptive Learning Rate** 
 * **Visualization, Confusion Matrix** 
 
