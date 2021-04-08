@@ -6,6 +6,8 @@
 * _**Pure Numpy**_ (1) 
 * _**Pure Keras, Tensorflow (Custom Subclass)**_ (2) 
 
+![](image_aug_sample.png)
+
 **Techniques applied**:
 * **Mini-Batch Gradient Descent** 
 * **Dropout Regularization Layer**
