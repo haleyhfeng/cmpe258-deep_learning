@@ -4,13 +4,13 @@
 
 **Build with**:
 * _**Pure Numpy**_ (1) 
-* _**Pure Keras, Tensorflow**_ (2) 
+* _**Pure Keras, Tensorflow (Custom Subclass)**_ (2) 
 
 **Techniques applied**:
 * **Mini-Batch Gradient Descent** 
 * **Dropout Regularization Layer**
 * **Appropriate Weight Initialization** 
-* **Image Augmentation**
+* **Image Augmentation with Keras Preprocessing**
 * **Tuning of Number of Neurons and Layers**
 * **ReLU Activation Layer**
 * **Normalization** 
@@ -18,7 +18,10 @@
 * **Visualization, Confusion Matrix** 
 
 **Highest Accuracy Achieved**:
-
+* **Numpy** (Train Acc = 99.77%, Testing Acc = 97.02% ): 
+    - Randomly select 10k training data + extra 30k augmented, 4-layers NN [784, 200, 80, 10], MSE Loss, ReLU Activation, 0.016 Learning Rate, Mini-Batch GD with Batch Size 256, 401 Number of Epoch
+* **Keras** (Train Acc = 97.72% , Testing Acc = 97.44% ):  
+    - Randomly select 10k training data, 4-layers NN [784, 200, 80, 10], MSE Loss, ReLU Activation, 0.001 Learning Rate, Adam Optimization, Mini-Batch ImageDataGenerator Batch Size 512, 401 Number of Epoch
 
 
 Reference/Modified code from the following notebooks: 
