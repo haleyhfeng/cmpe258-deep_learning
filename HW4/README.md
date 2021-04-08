@@ -19,7 +19,7 @@
 * **Appropriate/Adaptive Learning Rate** 
 * **Visualization, Confusion Matrix** 
 
-**Highest Accuracy Achieved**:
+**Highest Testing Accuracy Achieved**:
 * **Numpy** (Train Acc = 99.58%, Testing Acc = 97.45% ): 
     - Randomly select 10k training data + extra 30k augmented, 4-layers NN [784, 200, 80, 10], MSE Loss, ReLU Activation, Mini-Batch GD with Batch Size 256, Learning Rate = 0.016, Number of Epoch = 201
 * **Keras** (Train Acc = 97.72% , Testing Acc = 97.44% ):  
