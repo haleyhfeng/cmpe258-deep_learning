@@ -16,7 +16,8 @@
 5. Uses GPU/TPU as distribution infrastructure 
 
 **Highest Testing Accuracy Achieved**:
-* **Tensorflow** (Train RMSE = 3.7527, Testing RMSE = 4.8123): 50 epoch
+* **Tensorflow** (Train RMSE = 3.7527, Testing RMSE = 4.8123):
+  - 15k training data, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 0.001, Number of Epoch = 50
 * **Tensorflow with TFX** (Train RMSE = , Testing RMSE = ):  
 * **Pytorch** (Train RMSE = , Testing RMSE = ):  
 * **XGBoost** (Train RMSE = , Testing RMSE = ):  
