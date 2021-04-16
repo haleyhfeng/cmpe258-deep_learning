@@ -10,10 +10,10 @@
 
 **Techniques applied**:
 1. One-Hot encode all categorical attributes
-2. Feature cross: Cross-join categorical attributes( ex: Lat cross Lon )
-3. Network architecture: Wide( Categorical ) and Deep( Continuous features )
-4. Regularization( Overfit prevention ): L2
-5. Uses GPU / TPU as distribution infrastructure 
+2. Feature cross - Cross-join categorical attributes (ex: Lat cross Lon)
+3. Network architecture - Wide (Categorical) and Deep (Continuous features)
+4. Regularization(Overfit prevention) - L2
+5. Uses GPU/TPU as distribution infrastructure 
 
 **Highest Testing Accuracy Achieved**:
 * **Tensorflow** (Train RMSE = , Testing RMSE = ): 
