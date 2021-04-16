@@ -1,9 +1,9 @@
 # HW 5
 
-**Objective**: Build a Feed Forward Neural Network to train on MNIST dataset.
+**Objective**: Implement a end2end model pipeline using wide and deep DNN model with proper feature engineering and preprocessing on the NYC taxi dataset. 
 
 **Build with**:
-* _**Tensorflow**_ (1) 
+* _**Tensorflow (with EDA/VSA included)**_ (1) 
 * _**Tensorflow with TFX**_ (2) 
 * _**Pytorch**_ (3) 
 * _**XGBoost**_ (4) 
