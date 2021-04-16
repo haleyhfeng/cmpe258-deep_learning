@@ -1,6 +1,6 @@
 # HW 5
 
-**Objective**: Implement a end2end model pipeline using wide and deep DNN model with proper feature engineering and preprocessing on the NYC taxi dataset. 
+**Objective**: Implement a full end2end MLOps using wide and deep DNN model with proper feature engineering and preprocessing on the NYC taxi dataset. 
 
 **Build with**:
 * _**Tensorflow (with EDA/VSA included)**_ (1) 
