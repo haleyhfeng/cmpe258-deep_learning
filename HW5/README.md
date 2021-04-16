@@ -3,7 +3,7 @@
 **Objective**: Implement a full end2end MLOps using wide and deep DNN model with proper feature engineering and preprocessing on the NYC taxi dataset. 
 
 **Build with**:
-* _**Tensorflow (with EDA/VSA included)**_ (1) 
+* _**Tensorflow (EDA/VSA included)**_ (1) 
 * _**Tensorflow with TFX**_ (2) 
 * _**Pytorch**_ (3) 
 * _**XGBoost**_ (4) 
