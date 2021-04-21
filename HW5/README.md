@@ -20,14 +20,14 @@
 5. Uses GPU/TPU as distribution infrastructure 
 
 **Highest Testing Accuracy Achieved**:
-* **Tensorflow** (Train RMSE = 3.7527, Testing RMSE = 4.8123):
-  - 25k training data, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 0.001, Number of Epoch = 50
+* **Tensorflow** (Train RMSE = 6.3783, Testing RMSE = 5.6319):
+  - 25k training data, 3 Hidden Layer, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 1e-05, Number of Epoch = 50
 * **Tensorflow with TFX** (Train RMSE = 5.8757, Testing RMSE = 3.7620): 
-  - 3 Hidden Layer, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 1e-05, Number of Epoch = 50
+  - 25k training data, 3 Hidden Layer, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 1e-05, Number of Epoch = 50
 * **Pytorch** (Train RMSE = 5.5701 , Testing RMSE = 4.8073):  
-  - MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 1e-2, Number of Epoch = 100
+  - 25k training data, MSE Loss, ReLU Activation, Adam Optimizer, Learning Rate = 1e-2, Number of Epoch = 100
 * **XGBoost** (Train RMSE = 2.5046, Testing RMSE = 3.8093):  
-  - Early stopping, Max Depth = 8, Gamma = 0, ETA = 0.05
+  - 25k training data, Early stopping, Max Depth = 8, Gamma = 0, ETA = 0.05
 
 Reference/Modified code from the following notebooks: 
 * https://colab.research.google.com/drive/1xS2YjhCYGnOrsyVRKxqN-PvdFROSnDvM?authuser=1#scrollTo=fK9LdIbXN87L
