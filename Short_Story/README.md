@@ -14,7 +14,6 @@ The use of deep learning in the study of proteins is no stranger to those in the
 **Video Presentation:** https://drive.google.com/file/d/1ygG2ZDJC4D0CHW-YTf8CYbxr3HBTp5Hz/view?usp=sharing
 
 **Original Paper:** 
-
-  Deep Learning in Proteomics
-  https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/pmic.201900335 
-  Wen, Bo, et al. “Deep Learning in Proteomics.” PROTEOMICS, vol. 20, no. 21-22, 2020, p. 1900335., doi:10.1002/pmic.201900335. 
+* Deep Learning in Proteomics
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/pmic.201900335 
+Wen, Bo, et al. “Deep Learning in Proteomics.” PROTEOMICS, vol. 20, no. 21-22, 2020, p. 1900335., doi:10.1002/pmic.201900335. 
