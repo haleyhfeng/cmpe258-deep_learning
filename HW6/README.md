@@ -9,7 +9,7 @@
 
 
 **Google Image Custom Dataset**:
-Followed this [tutoral](https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb#scrollTo=UxMJK_UJbIAO) from fastai vision to download google images (512 in total) of 4 different types of goldfish (Regular, Panda Telescope, Calico, Jikin). 
+Followed this [tutorial](https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb#scrollTo=UxMJK_UJbIAO) from fastai vision to download google images (512 in total) of 4 different types of goldfish (Regular, Panda Telescope, Calico, Jikin). 
 
 ![](goldfish_data.png)
 
