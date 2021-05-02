@@ -2,15 +2,10 @@
 
 **Objectives**: 
 1. Build a numpy MNIST classifier with autograd. Build an CNN based image classifier (at least 3 - 5 categories) from a custom data set you acquire from images.google.com
-
-**Build with**:
-* _**Pure Numpy (with unit tests)**_ (1) 
+* using _**Pure Numpy (with unit tests)**_ (1) 
 
 2. Build a CNN based image classifier (at least 3 - 5 categories) from a custom data set you acquire from images.google.com
-
-**Build with**:
-* _**Keras, Tensorflow**_ (2a) 
-* _**Pytorch Lightning**_ (2b) 
+* using _**Keras, Tensorflow**_ (2a) , _**Pytorch Lightning**_ (2b) 
 
 
 **Google Image Custom Dataset**:
